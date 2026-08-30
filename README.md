@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m a 4thyear B.Tech student in Artificial Intelligence and Machine Learning at SRM Institute of Science and Technology  <br>👨‍💻 I’m passionate about building AI-powered applications and full-stack projects  <br>🤝 I’m looking to collaborate on AI, Machine Learning, and innovative real-world tech projects  <br>🚀 I’m currently learning advanced Machine Learning, Deep Learning, and Generative AI  <br>💬 Ask me about AI, MERN stack, Full-Stack Development, and project building  <br>⚡ Fun fact: I love turning ideas into real working products through code<br>
+🌱 I’m a 4th year B.Tech student in Artificial Intelligence and Machine Learning at SRM Institute of Science and Technology  <br>👨‍💻 I’m passionate about building AI-powered applications and full-stack projects  <br>🤝 I’m looking to collaborate on AI, Machine Learning, and innovative real-world tech projects  <br>🚀 I’m currently learning advanced Machine Learning, Deep Learning, and Generative AI  <br>💬 Ask me about AI, MERN stack, Full-Stack Development, and project building  <br>⚡ Fun fact: I love turning ideas into real working products through code<br>
 
 
 ## 🌐 Socials:
